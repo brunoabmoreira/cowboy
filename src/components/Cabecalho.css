@@ -1,0 +1,16 @@
+#header {
+    background-color: #9B7C59;
+    width: 60%;
+    min-width: 440px;
+    height: 300px;
+    border-radius: 10px 10px 0px 0px;
+    margin: auto;
+  }
+  
+  #titulo {
+    color: #BABF95;
+    font-family: 'Bebas Neue', cursive;
+    font-variant: small-caps;
+    font-size: 100px;
+    padding: 5%;
+  }

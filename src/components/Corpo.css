@@ -1,0 +1,20 @@
+#corpo {
+    background-color: #9B7C59;
+    width: 60%;
+    min-width: 440px;
+    height: max-content;
+    border-radius: 10px 10px 0px 0px;
+    margin: auto;
+}
+
+#frame {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 1px 1px 15px -1px;
+}
+
+.paginas div:not(.numbers):hover,
+.paginas div.numeros div:hover,
+.paginas div.numbers div.active {
+    color: white;
+}
