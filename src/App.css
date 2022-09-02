@@ -1,8 +1,10 @@
-.Item {
-    width: 500px;
-    padding: 1em;
-    margin: 1em;
-    border: 1px solid black;
+
+.App {
+    height: 100%;
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
 }
